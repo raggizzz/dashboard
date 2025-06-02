@@ -1,0 +1,36 @@
+{
+  "total_vagas": 1121,
+  "total_empresas": 539,
+  "cargos_principais": {
+    "recursos humanos": 140,
+    "marketing digital": 140,
+    "professor de pedagogia": 129,
+    "contador": 123,
+    "analista financeiro": 109,
+    "desenvolvedor": 108
+  },
+  "empresas_principais": {
+    "Confidencial": 47,
+    "Shopee": 18,
+    "Site BuscarVagas Brasil": 18,
+    "Procter & Gamble": 14,
+    "Natura": 13,
+    "Talent Group": 13,
+    "Rede D'Or": 13,
+    "abler Vagas": 11,
+    "BTG Pactual": 9,
+    "Banco Bradesco": 8
+  },
+  "localizacoes_principais": {
+    "Localização não disponível": 266,
+    "São Paulo, São Paulo, Brazil": 244,
+    "Greater São Paulo Area": 59,
+    "Brazil": 48,
+    "Greater Rio de Janeiro": 44,
+    "Curitiba, Paraná, Brazil": 30,
+    "São Paulo, Brazil": 29,
+    "Campinas, São Paulo, Brazil": 23,
+    "Fortaleza, Ceará, Brazil": 21,
+    "Barueri, São Paulo, Brazil": 21
+  }
+}

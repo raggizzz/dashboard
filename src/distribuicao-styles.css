@@ -1,0 +1,131 @@
+.distribuicao-vagas-detalhes {
+  background: linear-gradient(90deg, #e0e7ff 0%, #f1f5f9 100%);
+  border-radius: 16px;
+  box-shadow: 0 4px 18px rgba(59, 130, 246, 0.10);
+  padding: 2rem 1.5rem;
+  margin-top: 2rem;
+  border: 1.5px solid #3b82f6;
+  max-width: 350px;
+  position: absolute;
+  right: 2rem;
+  top: 0;
+  height: calc(100% - 4rem);
+  overflow-y: auto;
+}
+
+.distribuicao-vagas-detalhes h3 {
+  color: #1e40af;
+  font-size: 1.5rem;
+  margin-bottom: 1.2rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.distribuicao-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+.distribuicao-card {
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 2px 10px rgba(37, 99, 235, 0.08);
+  padding: 1.2rem 1rem;
+  border: 1px solid #c7d2fe;
+  transition: box-shadow 0.2s, border-color 0.2s;
+}
+
+.distribuicao-card:hover {
+  box-shadow: 0 6px 18px rgba(37, 99, 235, 0.13);
+  border-color: #2563eb;
+}
+
+.distribuicao-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.8rem;
+  background-color: #1e40af;
+  color: white;
+  padding: 1rem;
+  border-radius: 10px 10px 0 0;
+  margin: -1.2rem -1rem 0.8rem -1rem;
+}
+
+.distribuicao-header h4 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.total-vagas {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 0.3rem 0.8rem;
+  border-radius: 8px;
+}
+
+.distribuicao-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.distribuicao-item {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.categoria {
+  font-weight: 500;
+  color: #1d4ed8;
+  font-size: 0.9rem;
+}
+
+.barra-progresso {
+  height: 0.5rem;
+  background-color: #e2e8f0;
+  border-radius: 0.25rem;
+  overflow: hidden;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.barra {
+  height: 100%;
+  border-radius: 0.25rem;
+  transition: width 1s ease-out;
+}
+
+.valor {
+  font-weight: 600;
+  color: #0ea5e9;
+  font-size: 0.9rem;
+  text-align: right;
+}
+
+.mapa-calor-section {
+  position: relative;
+}
+
+.mapa-calor-container {
+  width: calc(100% - 380px);
+}
+
+@media (max-width: 1200px) {
+  .distribuicao-vagas-detalhes {
+    position: static;
+    max-width: 100%;
+    height: auto;
+    margin-top: 2rem;
+  }
+  
+  .mapa-calor-container {
+    width: 100%;
+  }
+}
