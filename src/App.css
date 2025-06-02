@@ -47,8 +47,9 @@ body {
 }
 
 .header-content {
-  max-width: 1200px;
+  width: 100%;
   margin: 0 auto;
+  padding: 0 2rem;
 }
 
 .header-title {
@@ -85,8 +86,9 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 1.5rem;
-  max-width: 800px;
+  width: 100%;
   margin: 0 auto;
+  max-width: 1200px;
 }
 
 .stat-card {
@@ -162,12 +164,13 @@ body {
 }
 
 .filters-container {
-  max-width: 1200px;
+  width: 100%;
   margin: 0 auto;
   display: flex;
   gap: 1rem;
   flex-wrap: wrap;
   align-items: center;
+  padding: 0 2rem;
 }
 
 .filter-select {
@@ -208,9 +211,8 @@ body {
 .dashboard-main {
   flex: 1;
   padding: 2rem;
-  max-width: 1400px;
-  margin: 0 auto;
   width: 100%;
+  margin: 0;
 }
 
 section {
