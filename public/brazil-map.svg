@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Simplified Brazil map with state paths -->
+  <g id="brazil-states">
+    <!-- São Paulo -->
+    <path id="SP" d="M350 400 L450 400 L450 480 L350 480 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Rio de Janeiro -->
+    <path id="RJ" d="M450 400 L500 400 L500 450 L450 450 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Minas Gerais -->
+    <path id="MG" d="M350 350 L500 350 L500 400 L350 400 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Bahia -->
+    <path id="BA" d="M400 250 L550 250 L550 350 L400 350 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Paraná -->
+    <path id="PR" d="M300 450 L400 450 L400 520 L300 520 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Rio Grande do Sul -->
+    <path id="RS" d="M250 520 L400 520 L400 580 L250 580 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Santa Catarina -->
+    <path id="SC" d="M300 480 L400 480 L400 520 L300 520 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Goiás -->
+    <path id="GO" d="M300 300 L400 300 L400 400 L300 400 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Mato Grosso -->
+    <path id="MT" d="M200 250 L350 250 L350 350 L200 350 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Mato Grosso do Sul -->
+    <path id="MS" d="M200 350 L300 350 L300 450 L200 450 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Distrito Federal -->
+    <path id="DF" d="M350 320 L370 320 L370 340 L350 340 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Espírito Santo -->
+    <path id="ES" d="M500 380 L530 380 L530 420 L500 420 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Ceará -->
+    <path id="CE" d="M450 150 L550 150 L550 200 L450 200 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Pernambuco -->
+    <path id="PE" d="M500 200 L580 200 L580 250 L500 250 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Paraíba -->
+    <path id="PB" d="M550 180 L600 180 L600 220 L550 220 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Rio Grande do Norte -->
+    <path id="RN" d="M550 150 L620 150 L620 190 L550 190 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Alagoas -->
+    <path id="AL" d="M580 220 L620 220 L620 260 L580 260 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Sergipe -->
+    <path id="SE" d="M550 250 L580 250 L580 280 L550 280 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Piauí -->
+    <path id="PI" d="M400 150 L500 150 L500 250 L400 250 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Maranhão -->
+    <path id="MA" d="M350 100 L500 100 L500 200 L350 200 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Tocantins -->
+    <path id="TO" d="M350 200 L400 200 L400 300 L350 300 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Pará -->
+    <path id="PA" d="M200 50 L400 50 L400 200 L200 200 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Amazonas -->
+    <path id="AM" d="M50 80 L250 80 L250 250 L50 250 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Roraima -->
+    <path id="RR" d="M150 20 L250 20 L250 80 L150 80 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Acre -->
+    <path id="AC" d="M50 200 L150 200 L150 280 L50 280 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Rondônia -->
+    <path id="RO" d="M150 200 L250 200 L250 280 L150 280 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+    <!-- Amapá -->
+    <path id="AP" d="M300 20 L400 20 L400 100 L300 100 Z" fill="#e2e8f0" stroke="#fff" stroke-width="1"/>
+  </g>
+</svg>

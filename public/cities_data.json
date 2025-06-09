@@ -1,0 +1,78 @@
+{
+  "total_jobs": 448022,
+  "jobs_by_region": {
+    "Norte": 41626,
+    "Nordeste": 30294,
+    "Centro-Oeste": 63573,
+    "Sudeste": 272847,
+    "Sul": 39682
+  },
+  "jobs_by_state": {
+    "AC": 1247,
+    "AL": 1821,
+    "AP": 892,
+    "AM": 3456,
+    "BA": 30294,
+    "CE": 4567,
+    "DF": 30662,
+    "ES": 8934,
+    "GO": 32911,
+    "MA": 2134,
+    "MT": 15678,
+    "MS": 12456,
+    "MG": 38058,
+    "PA": 5432,
+    "PB": 1876,
+    "PR": 39682,
+    "PE": 6789,
+    "PI": 1234,
+    "RJ": 45678,
+    "RN": 2345,
+    "RS": 23456,
+    "RO": 1567,
+    "RR": 678,
+    "SC": 18765,
+    "SP": 234789,
+    "SE": 987,
+    "TO": 1890
+  },
+  "cities_by_region": {
+    "Norte": {
+      "Manaus": 3456,
+      "Belém": 5432,
+      "Porto Velho": 1567,
+      "Rio Branco": 1247,
+      "Macapá": 892,
+      "Boa Vista": 678,
+      "Palmas": 1890
+    },
+    "Nordeste": {
+      "Salvador": 30294,
+      "Fortaleza": 4567,
+      "Recife": 6789,
+      "São Luís": 2134,
+      "Natal": 2345,
+      "João Pessoa": 1876,
+      "Maceió": 1821,
+      "Aracaju": 987,
+      "Teresina": 1234
+    },
+    "Centro-Oeste": {
+      "Brasília": 30662,
+      "Goiânia": 32911,
+      "Campo Grande": 12456,
+      "Cuiabá": 15678
+    },
+    "Sudeste": {
+      "São Paulo": 234789,
+      "Rio de Janeiro": 45678,
+      "Belo Horizonte": 38058,
+      "Vitória": 8934
+    },
+    "Sul": {
+      "Curitiba": 39682,
+      "Porto Alegre": 23456,
+      "Florianópolis": 18765
+    }
+  }
+}
